@@ -1,10 +1,9 @@
-package java.ru.netology.domain.utils;
+package ru.netology.domain.utils;
 
 import com.github.javafaker.Faker;
 import lombok.experimental.UtilityClass;
+import ru.netology.domain.entities.RegistrationInfo;
 
-
-import java.ru.netology.domain.entities.RegistrationInfo;
 import java.util.Locale;
 
 

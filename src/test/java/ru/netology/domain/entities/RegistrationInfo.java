@@ -1,4 +1,4 @@
-package java.ru.netology.domain.entities;
+package ru.netology.domain.entities;
 
 import lombok.Data;
 
